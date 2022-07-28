@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="lonField">Longitude</string>
+    <string name="latField">Latitude</string>
+    <string name="submitButton">Submit</string>
+    <string name="dataseriesTimepoint">"TImepoint : "</string>
+    <string name="dataseriesTransparency">Transparency</string>
+    <string name="productText">"Product : "</string>
+    <string name="initText">"Init : "</string>
+    <string name="dataseriesTemperature">"Temperature : "</string>
+</resources>
